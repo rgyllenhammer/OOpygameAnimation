@@ -92,7 +92,7 @@ for i in range(6):
     blobName += 1
 
 
-# main game loop... I honestly should probably just say while true... lol jk blobbing is siclc
+# main game loop... I honestly should probably just say while true... lol jk blobbing is sicc
 blobbing = True
 while blobbing:
 
